@@ -1,4 +1,4 @@
-# 
+# automatic Trading Bot for dex sandwiched bot | auto-compounding & market-making offers the most advanced dex sandwiched bot, with auto-compounding and market-making. Ideal for
 
 
 
